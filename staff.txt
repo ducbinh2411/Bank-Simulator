@@ -1,4 +1,4 @@
 
 
-{"Staff 1": {"Username": "ducbinhnguyen", "Password": "Binh241195", "Email": "ducbinhnguyen.2411@gmail.com", "Full Name": "Duc Binh Nguyen"},
-"Staff 2": {"Username": "tramnguyen", "Password": "S5takara", "Email": "nareen.nguyen@gmail.com", "Full Name": "Tram Huu Khanh Nguyen"}}
+{"Staff 1": {"Username": "ducbinhnguyen", "Password": "binh1234", "Email": "ducbinhnguye@gmail.com", "Full Name": "Duc Binh Nguyen"},
+"Staff 2": {"Username": "tramnguyen", "Password": "xiu1234", "Email": "xiu@gmail.com", "Full Name": "Tram Huu Khanh Nguyen"}}
